@@ -1,0 +1,1 @@
+# Dockerized Posgresql with [pg_similarity](https://github.com/eulerto/pg_similarity) installed
